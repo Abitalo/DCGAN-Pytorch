@@ -1,5 +1,5 @@
 # DCGAN-Pytorch
-Pytorch Implementation of DCGAN on Stanford Car dataset.
+Pytorch Implementation of [DCGAN](https://arxiv.org/abs/1511.06434) on [Stanford Car dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html).
 
 ## Dependencies:
 
@@ -11,14 +11,14 @@ Pytorch Implementation of DCGAN on Stanford Car dataset.
 
 ## How to run:
 
-Directly check the CGAN.ipynb using [Jupyter notebook](<https://jupyter.org/>).
+Directly check the MyDCGAN.ipynb using [Jupyter notebook](<https://jupyter.org/>).
 
 ## Results
 
 ### 1500 epochs
 
 ![avatar](./DCGAN_sampler/1500_my.jpg)
-
+(The generated image seems not good enough and showing model collapse, **further works needs be done**.)
 
 
 ## Description
